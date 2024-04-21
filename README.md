@@ -2,10 +2,10 @@
 A website for easy auctioning.
 
 Login page
-![login](screenshots/login.png)
+![login](Online-Auction-System/screenshots/login.png)
 
 Home page
-![homepage](screenshots/homepage.png)
+![homepage](Online-Auction-System/screenshots/homepage.png)
 
 Product page
-![productpage](screenshots/productpage.png)
+![productpage](Online-Auction-System/screenshots/productpage.png)
